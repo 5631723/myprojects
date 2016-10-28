@@ -1,4 +1,4 @@
-Bootstrap_Metro_Dashboard
+﻿Bootstrap_Metro_Dashboard
 =========================
 
 A Metro Style Dashboard Template with Twitter Bootstrap
